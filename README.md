@@ -8,9 +8,15 @@ A single line git command for to do:
 2. git commit -m "a commit description"
 
 
-## Notes
+## Instructions
 
-Create an alias on your bash for use `gac` command on this script.
+1. Create the `sh` file where you want.
+
+2. Create an alias on your bash for use `gac` command on the created script, example:
+`echo 'alias gac="/home/your_user/Documents/gitscripts/gac.sh"' >> ~/.bashrc`
+
+2. give permissions to this file:
+`chmod +x gac.sh`
 
 ## Usage
 
