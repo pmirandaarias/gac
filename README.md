@@ -17,6 +17,10 @@ A single line git command for to do:
 
 `echo 'alias gac="/home/your_user/gitscripts/gac.sh"' >> ~/.bashrc`
 
+or
+
+`echo 'alias gac="/home/your_user/gitscripts/gac.sh"' >> ~/.zshrc`
+
 2. give permissions to this file:
 
 `chmod +x gac.sh`
